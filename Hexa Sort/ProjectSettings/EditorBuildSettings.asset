@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Hexa Sort/Scenes/Main Menu.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Hexa Sort/Scenes/LevelSelection.unity
+    guid: c0a8909602dd0994ab0362085657f9ab
+  - enabled: 1
+    path: Assets/Hexa Sort/Scenes/Level 1.unity
+    guid: c3a755775ab33da488b131ec6d116189
+  - enabled: 1
+    path: Assets/Hexa Sort/Scenes/Level 2.unity
+    guid: b5ff18caa07818c4bb062f2e1b46d807
+  m_configObjects: {}
