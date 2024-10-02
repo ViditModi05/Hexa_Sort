@@ -42,7 +42,7 @@ public class Hexagon : MonoBehaviour
         .setOnComplete(() => Destroy(gameObject));      
     }
     
-    public void MoveToLocal(Vector3 targetLocalPos) 
+    public void MoveToLocal(Vector3 targetLocalPos) // Rotation 
     {
         LeanTween.cancel(gameObject);
 
